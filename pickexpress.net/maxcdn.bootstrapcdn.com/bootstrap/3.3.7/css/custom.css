@@ -1,0 +1,17 @@
+.container {
+    width: 1600px;
+}
+
+.sch-name{
+    font-size: 40px;
+    font-family: Arial;
+    padding: 0px;
+    margin: 0%
+}
+
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+    margin-right: 0;
+    margin-left: 100px;
+    background-image: url('../image/banner.png ');
+    display: ;
+}
